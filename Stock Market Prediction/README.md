@@ -1,3 +1,5 @@
+# CODING CHALLENGE WINNER CODE!
+
 ## Coding Challenge
 
 Coding challenge presented in <a href="https://www.youtube.com/watch?v=JuLCL3wCEAk&lc=z23turxghobhvrufwacdp431hoe2nl2w50pzkelponhw03c010c&ab_channel=SirajRaval">Stock Market Prediction</a> by <a href="https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A?&ab_channel=SirajRaval">Siraj Raval</a>.
@@ -40,7 +42,7 @@ Is an indicator to measure the volalitility (NOT price direction). The largest o
 
 <img src="http://d.stockcharts.com/school/data/media/chart_school/technical_indicators_and_overlays/average_true_range_atr/atr-1-trexam.png" width="400px">
 
-Calculation:
+Calculation:<br>
 <img src="http://i68.tinypic.com/e0kggi.png">
 
 # Models
@@ -59,10 +61,11 @@ A (more appropiate) recurrent neural network model. Details in the corresponding
 
 A pair of plots is worth many thousand words.
 
--Plot1
+-Price vs Prediction w/ Deep Regressor
+<img src="https://github.com/alberduris/SirajsCodingChallenges/blob/master/Stock%20Market%20Prediction/src/PriceVsPred_DeepRegressor.PNG?raw=true">
 
--Plot2
-
+-Price vs Prediction w/ Recurrent Neural Network
+<img src="https://github.com/alberduris/SirajsCodingChallenges/blob/master/Stock%20Market%20Prediction/src/PriceVsPred_RNN.PNG?raw=true">
 
 ## Dependencies for challenge
 
@@ -78,7 +81,7 @@ A pair of plots is worth many thousand words.
 ### References
 
 
-<a href="http://www.investopedia.com/university/technical/techanalysis3.asp">Technical Analysis - The use of Trend - Investopedia</a>
-<a href="http://http://www.investopedia.com/terms/m/marketmomentum.asp">Momentum Market - Investopedia</a>
-<a href="http://www.investopedia.com/terms/v/volume.asp">Volume - Investopedia</a>
-<a href="https://www.youtube.com/watch?v=LhtnECml-KI">Siraj Raval - Youtube - Quantum Computing - The Math of Intelligence #10</a>
+<a href="http://www.investopedia.com/university/technical/techanalysis3.asp">Technical Analysis - The use of Trend - Investopedia</a><br>
+<a href="http://http://www.investopedia.com/terms/m/marketmomentum.asp">Momentum Market - Investopedia</a><br>
+<a href="http://www.investopedia.com/terms/v/volume.asp">Volume - Investopedia</a><br>
+<a href="https://www.youtube.com/watch?v=LhtnECml-KI">Siraj Raval - Youtube - Quantum Computing - The Math of Intelligence #10</a><br>
