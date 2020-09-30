@@ -1,2 +1,2 @@
 # SirajsCodingChallenges
-Code for Siraj Raval's Coding Challenges!
+Code for Siraj Raval's Awesome Coding Challenges!
